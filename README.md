@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/VedantTinkhede](https://github.com/VedantTinkhede)
 
-- 📫 Reach me via E-mail: **vedanttinkhede797@gmail.com**, LinkedIn: **https://www.linkedin.com/in/vedant-tinkhede-a50a1228a/**
+- 📫 Reach me via: E-mail:- **vedanttinkhede797@gmail.com**, LinkedIn:- **https://www.linkedin.com/in/vedant-tinkhede-a50a1228a/**
 
-- ⚡ Fun fact **I am an Astrophile🔭**
+- ⚡ Fun fact: **I am an Astrophile🔭**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
