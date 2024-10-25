@@ -15,9 +15,9 @@
   
 <h3 align="left">My coding profiles:</h3>
 <p align="left">
-<a href="https://www.codechef.com/users/vedcode96" target="blank"><span title = 'CodeChef'><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vedcode96" height="30" width="40" /></span></a>
-<a href="https://www.leetcode.com/vedantleet" target="blank"><span title = 'LeetCode'><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vedantleet" height="30" width="40" /></span></a>
-<a href="https://www.hackerrank.com/vedanttinkhede71" target="blank"><span title = 'HackerRank'><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vedanttinkhede71" height="30" width="40" /></span></a>
+<a href="https://www.codechef.com/users/vedcode96" target="blank"><span title = 'CodeChef'><img align="center" src="https://github.com/user-attachments/assets/1756d59c-d38e-4477-82c1-f617c77195d4" alt="vedcode96" height="40" width="40" /></span></a>
+<a href="https://www.leetcode.com/vedantleet" target="blank"><span title = 'LeetCode'><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vedantleet" height="40" width="40" /></span></a>
+<a href="https://www.hackerrank.com/vedanttinkhede71" target="blank"><span title = 'HackerRank'><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vedanttinkhede71" height="40" width="40" /></span></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
