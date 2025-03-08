@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Vedant Tinkhede</h1>
-<h3 align="center">A passionate Data Science student from RBU, Nagpur, India</h3>
+<h3 align="center">Data Science student from RBU, Nagpur, India</h3>
 
 - 🔭 I’m currently working on **my skill set in Data Analytics**
 
